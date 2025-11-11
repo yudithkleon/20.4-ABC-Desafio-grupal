@@ -5,7 +5,7 @@ export const data = [
         Name: "Avión "
     }, {
         letra: "B",
-        URL: "https://soundcloud.com/leptospilove_7/burro-do-shrek-freestyle",
+        URL: "https://soundcloud.com/leptospilove_7/burro-do-shrek-freestyle.jpg",
         Name: "Burro"
     }, {
         letra: "C",
