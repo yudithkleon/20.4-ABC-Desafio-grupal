@@ -1,106 +1,106 @@
-const data = [
+export const data = [
     {
-        Id: "A",
-        URL: " https://i.pinimg.com/originals/6f/dd/4e/6fdd4e9b2e20105c88ddfd6c3f6c84be.png  ",
+       letra: "A",
+        URL: " https://i.pinimg.com/originals/6f/dd/4e/6fdd4e9b2e20105c88ddfd6c3f6c84be.png",
         Name: "Avión "
     }, {
-        Id: "B",
-        URL: " https://soundcloud.com/leptospilove_7/burro-do-shrek-freestyle  ",
+       letra: "B",
+        URL: "https://soundcloud.com/leptospilove_7/burro-do-shrek-freestyle",
         Name: "Burro"
     }, {
-        Id: "C",
-        URL: " https://revistadigital.mx/wp-content/uploads/2020/07/CP_0720_portada_BugsBunny.jpg  ",
+       letra: "C",
+        URL: "https://revistadigital.mx/wp-content/uploads/2020/07/CP_0720_portada_BugsBunny.jpg",
         Name: "conejo"
     }, {
-        Id: "D",
-        URL: " https://share.google/images/1jVDnFDHO32tiXlEK ",
+       letra: "D",
+        URL: " https://share.google/images/1jVDnFDHO32tiXlEK",
         Name: "   "
     }, {
-        Id: "E",
-        URL: "https://share.google/images/YccljgVHgIUhL5Tgx ",
+       letra: "E",
+        URL: "https://share.google/images/YccljgVHgIUhL5Tgx",
         Name: "   "
     }, {
-        Id: "F",
+       letra: "F",
         URL: " https://share.google/images/NzwLDOaRd1XzjwoWo",
         Name: "   "
     }, {
-        Id: "G",
+       letra: "G",
         URL: "https://share.google/images/cM1xPqwOn9R3WgZTg",
         Name: "   "
     }, {
-        Id: "H",
+       letra: "H",
         URL: "https://share.google/images/L0Nkl7at2Eh53p6mO",
         Name: "   "
     }, {
-        Id: "I",
+       letra: "I",
         URL: "https://share.google/images/URuDqWWfJGbBTXL3g",
         Name: "   "
     }, {
-        Id: "J",
+       letra: "J",
         URL: "https://share.google/images/BxYaZJ7KCC9swCcqX",
         Name: "   "
     }, {
-        Id: "K",
+       letra: "K",
         URL: "   ",
         Name: "   "
     }, {
-        Id: "L",
+       letra: "L",
         URL: "   ",
         Name: "   "
     }, {
-        Id: "M",
+       letra: "M",
         URL: "   ",
         Name: "   "
     }, {
-        Id: "N",
+       letra: "N",
         URL: "   ",
         Name: "   "
     }, {
-        Id: "O",
+       letra: "O",
         URL: "   ",
         Name: "   "
     }, {
-        Id: "P",
+       letra: "P",
         URL: "   ",
         Name: "   "
     }, {
-        Id: "Q",
+       letra: "Q",
         URL: "   ",
         Name: "   "
     }, {
-        Id: "R",
+       letra: "R",
         URL: "   ",
         Name: "   "
     }, {
-        Id: "S",
+       letra: "S",
         URL: "   ",
         Name: "   "
     }, {
-        Id: "T",
+       letra: "T",
         URL: "   ",
         Name: "   "
     },{
-        Id: "U",
+       letra: "U",
         URL: "   ",
         Name: "   "
     },{
-        Id: "V",
+       letra: "V",
         URL: "   ",
         Name: "   "
     },{
-        Id: "W",
+       letra: "W",
         URL: "   ",
         Name: "   "
     },{
-        Id: "X",
+       letra: "X",
         URL: "   ",
         Name: "   "
     },{
-        Id: "Y",
+       letra: "Y",
         URL: "   ",
         Name: "   "
     },{
-        Id: "Z",
+       letra: "Z",
         URL: "   ",
         Name: "   "
     },
