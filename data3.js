@@ -41,31 +41,31 @@ const data = [
         Name: "   "
     }, {
         Id: "K",
-        URL: "https://share.google/images/mrdFpr4PgKUlqgnZt",
+        URL: "https://https://www.redsistemica.com.ar/wp-content/uploads/2024/10/Palabras-con-K.jpg.google/images/mrdFpr4PgKUlqgnZt",
         Name: "   "
     }, {
         Id: "L",
-        URL: "https://share.google/images/RWnG0C2YLnT51OD9W",
+        URL: "https://static.wixstatic.com/media/3d7178_0a85394d3a7d48d889c28b6f230985d9~mv2.jpeg/v1/fill/w_568,h_440,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/3d7178_0a85394d3a7d48d889c28b6f230985d9~mv2.jpeg",
         Name: "   "
     }, {
         Id: "M",
-        URL: "https://share.google/images/BEeYut7ukzXUZrsgx",
+        URL: "https://lenguaje.com/wp-content/uploads/2023/05/PALABRAS-CON-M.png",
         Name: "   "
     }, {
         Id: "N",
-        URL: "https://share.google/images/k2iTUXpyivuSHry48",
+        URL: "https://lenguaje.com/wp-content/uploads/2023/05/PALABRAS-CON-N-2.png",
         Name: "   "
     }, {
         Id: "O",
-        URL: "https://share.google/images/2sTA1kv7Bpo67KULC",
+        URL: "https://www.proferecursos.com/wp-content/uploads/Palabras-que-empiezan-por-O.jpg",
         Name: "   "
     }, {
         Id: "P",
-        URL: "https://share.google/images/SCnANBGDhDS2COdsF",
+        URL: "https://lenguaje.com/wp-content/uploads/2023/05/PALABRAS-CON-P.png",
         Name: "   "
     }, {
         Id: "Q",
-        URL: "https://share.google/images/HGPaj8Go4cfyakvIx",
+        URL: "https://www.proferecursos.com/wp-content/uploads/Palabras-con-Q.jpg",
         Name: "   "
     }, {
         Id: "R",
