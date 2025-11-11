@@ -17,7 +17,7 @@ export const data = [
         Name: "   "
     }, {
         letra: "E",
-        URL: "https://share.google/images/YccljgVHgIUhL5Tgx ",
+        URL: "https://share.google/images/YccljgVHgIUhL5Tgx",
         Name: "   "
     }, {
         letra: "F",
@@ -67,7 +67,43 @@ export const data = [
         letra: "Q",
         URL: "https://share.google/images/HGPaj8Go4cfyakvIx",
         Name: "   "
-    }, 
+    }, {
+        letra: "R",
+        URL: "https://share.google/images/gIrdNu9sgMB1V7LqC",
+        Name: "   "
+    },{
+        letra: "S",
+        URL: "https://share.google/images/IqEonvMaH5MbwxdnF",
+        Name: "   "
+    },{
+        letra: "T",
+        URL: "https://share.google/images/pop4W7d7VQdy7JmeD",
+        Name: "   "
+    },{
+        letra: "U",
+        URL: "https://share.google/images/U5LlkO9Zvxfn108Ne",
+        Name: "   "
+    },{
+        letra: "V",
+        URL: "https://share.google/images/uwlUXHzqaMs37bpV6",
+        Name: "   "
+    },{
+        letra: "W",
+        URL: "https://share.google/images/EFSLbgP8OletrarAGY5G",
+        Name: "   "
+    },{
+        letra: "X",
+        URL: "https://share.google/images/60kOR5iWX358tW1Sf",
+        Name: "   "
+    },{
+        letra: "Y",
+        URL: "https://share.google/images/ya1PMHdAfs0BoLaoz",
+        Name: "   "
+    },{
+        letra: "Z",
+        URL: "https://share.google/images/fakgvOAjxJJSyoe0d",
+        Name: "   "
+    },
 
 
 ]

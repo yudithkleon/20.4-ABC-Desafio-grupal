@@ -15,7 +15,7 @@ data.forEach(element => {
         <h3>${element.Name}</h3>
       </div>
       <div class="col-8" style="flex: 2;">
-        <img src="${element.URL}" class="img-thumbnail" style="max-width: 100%; border-radius: 10px;">
+        <img src="${element?.URL}" class="img-thumbnail" style="max-width: 100%; border-radius: 10px;">
       </div>
       <Button>Color</Button>
     </div>
