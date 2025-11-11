@@ -10,98 +10,34 @@ const data = [
     }, {
         Id: "C",
         URL: " https://revistadigital.mx/wp-content/uploads/2020/07/CP_0720_portada_BugsBunny.jpg  ",
-        Name: "conejo"
+        Name: ""
     }, {
         Id: "D",
-        URL: " https://share.google/images/1jVDnFDHO32tiXlEK ",
+        URL: "https://lenguaje.com/wp-content/uploads/2023/05/PALABRAS-CON-D.png",
         Name: "   "
     }, {
         Id: "E",
-        URL: "https://share.google/images/YccljgVHgIUhL5Tgx ",
+        URL: "https://i.pinimg.com/736x/bc/03/ca/bc03cace7ab4a2a2e664a10249bdaa0e.jpg",
         Name: "   "
     }, {
         Id: "F",
-        URL: " https://share.google/images/NzwLDOaRd1XzjwoWo",
+        URL: "https://static.wixstatic.com/media/3d7178_8f77f061c6fe47058c7403eea95dd98d~mv2.jpeg/v1/fill/w_568,h_440,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/3d7178_8f77f061c6fe47058c7403eea95dd98d~mv2.jpeg",
         Name: "   "
     }, {
         Id: "G",
-        URL: "https://share.google/images/cM1xPqwOn9R3WgZTg",
+        URL: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6mNSrOcerRdC6zxQyzx0R5OuRDd4ONyisdAj0Pdee6L_LrgDIPG_1Hd06iAimHzijOIo&usqp=CAU",
         Name: "   "
     }, {
         Id: "H",
-        URL: "https://share.google/images/L0Nkl7at2Eh53p6mO",
+        URL: "https://lenguaje.com/wp-content/uploads/2023/05/PALABRAS-CON-H.png",
         Name: "   "
     }, {
         Id: "I",
-        URL: "https://share.google/images/URuDqWWfJGbBTXL3g",
+        URL: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT7DVt8QpiR8fa3604RvJx3ru-gacX5rV6ktyUCJHS2nb2QViO7ZnqpOPqDliiQo10Fwc&usqp=CAU",
         Name: "   "
     }, {
         Id: "J",
-        URL: "https://share.google/images/BxYaZJ7KCC9swCcqX",
+        URL: " https://www.proferecursos.com/wp-content/uploads/Palabras-con-J-1.jpg",
         Name: "   "
-    }, {
-        Id: "K",
-        URL: "   ",
-        Name: "   "
-    }, {
-        Id: "L",
-        URL: "   ",
-        Name: "   "
-    }, {
-        Id: "M",
-        URL: "   ",
-        Name: "   "
-    }, {
-        Id: "N",
-        URL: "   ",
-        Name: "   "
-    }, {
-        Id: "O",
-        URL: "   ",
-        Name: "   "
-    }, {
-        Id: "P",
-        URL: "   ",
-        Name: "   "
-    }, {
-        Id: "Q",
-        URL: "   ",
-        Name: "   "
-    }, {
-        Id: "R",
-        URL: "   ",
-        Name: "   "
-    }, {
-        Id: "S",
-        URL: "   ",
-        Name: "   "
-    }, {
-        Id: "T",
-        URL: "   ",
-        Name: "   "
-    },{
-        Id: "U",
-        URL: "   ",
-        Name: "   "
-    },{
-        Id: "V",
-        URL: "   ",
-        Name: "   "
-    },{
-        Id: "W",
-        URL: "   ",
-        Name: "   "
-    },{
-        Id: "X",
-        URL: "   ",
-        Name: "   "
-    },{
-        Id: "Y",
-        URL: "   ",
-        Name: "   "
-    },{
-        Id: "Z",
-        URL: "   ",
-        Name: "   "
-    },
+    }, 
 ]
